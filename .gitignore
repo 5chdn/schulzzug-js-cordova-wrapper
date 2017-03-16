@@ -44,3 +44,6 @@ jspm_packages
 .swp
 
 firebase-debug.log
+
+# cordova platforms folder
+/platforms/
