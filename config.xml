@@ -24,4 +24,6 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <icon src="img/schulz_winkend.png" />
+    <preference name="android-minSdkVersion" value="19"/> <!--android 4.4-->
+    <preference name="android-targetSdkVersion" value="23"/> <!--android 6.01-->
 </widget>
