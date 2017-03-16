@@ -20,7 +20,7 @@ e.g. android
 
 ```
 $ cd Schulzzug-Cordova/
-$ cordova add platform android
+$ cordova platform add android
 ```
 
 Run on emulator

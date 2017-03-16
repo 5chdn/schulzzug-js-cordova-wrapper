@@ -1,0 +1,3 @@
+[submodule "www/Schulzzug-JS"]
+	path = www/Schulzzug-JS
+	url = git@github.com:Bestes-SPD-Hackathon-Team/Schulzzug-JS.git

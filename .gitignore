@@ -47,3 +47,4 @@ firebase-debug.log
 
 # cordova platforms folder
 /platforms/
+/plugins/
